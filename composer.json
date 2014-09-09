@@ -1,6 +1,10 @@
 {
-    "require": {
-    	"ruflin/elastica": "v0.90.1.0",
-    	"jwage/purl": "v0.0.2"
+  "name": "UsabilityDynamics/wp-fantastic-elasticsearch",
+  "version": "master",
+  "type": "wordpress-plugin",
+  "require": {
+  	"ruflin/elastica": "v0.90.1.0",
+  	"jwage/purl": "v0.0.2",
+  	"composer/installers": "~1.0",
     }
 }
